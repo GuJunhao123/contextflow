@@ -1,0 +1,45 @@
+### 本地配置与凭据 ###
+application-local.yml
+application-local.yaml
+application-prod.yml
+application-prod.yaml
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.log
+
+### 构建与工具产物 ###
+tmp/
+node_modules/
+*.tsbuildinfo
+target/
+build/
+dist/
+/src/main/resources/static/
+/.github/modernize/
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
+
+### IDE ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.idea/
+*.iws
+*.iml
+*.ipr
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+.vscode/
