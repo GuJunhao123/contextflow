@@ -1,0 +1,22 @@
+{
+ "CF-TSB-012":{"url":null,"title":"Sedan 交流慢充中断诊断指引","locator":"CF-TSB-012，第17页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2022—2024年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-037":{"url":null,"title":"Sedan 低温续航变化核查指引","locator":"CF-TSB-037，第43页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2022—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-064":{"url":null,"title":"Sedan 动力系统告警处置指引","locator":"CF-TSB-064，第89页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-091":{"url":null,"title":"Sedan 空调制冷不足核查指引","locator":"CF-TSB-091，第126页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2022—2024年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-118":{"url":null,"title":"Sedan 严重告警安全边界","locator":"CF-TSB-118，第154页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-146":{"url":null,"title":"Sedan 充电事件记录要求","locator":"CF-TSB-146，第193页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2022—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-173":{"url":null,"title":"SUV 直流快充握手失败诊断指引","locator":"CF-TSB-173，第28页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-024":{"url":null,"title":"SUV 电池温度告警处置指引","locator":"CF-TSB-024，第67页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-058":{"url":null,"title":"SUV 胎压告警核查指引","locator":"CF-TSB-058，第105页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-107":{"url":null,"title":"SUV 轮胎与操控异常安全边界","locator":"CF-TSB-107，第142页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-159":{"url":null,"title":"SUV 充电状态记录要求","locator":"CF-TSB-159，第181页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-196":{"url":null,"title":"SUV 高压绝缘告警处置指引","locator":"CF-TSB-196，第9页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2024—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-006":{"url":null,"title":"Sedan 低压供电告警核查指引","locator":"CF-TSB-006，第36页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2022—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-045":{"url":null,"title":"Sedan 雨刮与视野异常处置指引","locator":"CF-TSB-045，第74页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2022—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-083":{"url":null,"title":"Sedan 车门锁止异常核查指引","locator":"CF-TSB-083，第112页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2022—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-132":{"url":null,"title":"Sedan 灯光异常核查指引","locator":"CF-TSB-132，第168页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；Sedan，2022—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-019":{"url":null,"title":"SUV 制动警告处置指引","locator":"CF-TSB-019，第51页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-076":{"url":null,"title":"SUV 转向助力告警处置指引","locator":"CF-TSB-076，第98页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-121":{"url":null,"title":"SUV 驻车状态异常处置指引","locator":"CF-TSB-121，第137页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null},
+ "CF-TSB-187":{"url":null,"title":"SUV 约束系统告警核查指引","locator":"CF-TSB-187，第199页","kind":"authored-tsb","applicability":"自编TSB诊断资料，非正式厂商资料；SUV，2023—2025年；须由专业人员核实实际适用性。","retrievedAt":null}
+}
