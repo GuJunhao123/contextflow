@@ -1,0 +1,10 @@
+[
+ {"id":"cf-charge","label":"交流慢充中断","model":"Sedan","year":2023,"question":"交流慢充充电中断","candidates":["CF-TSB-012","CF-TSB-146"]},
+ {"id":"cf-range","label":"低温续航变化","model":"Sedan","year":2023,"question":"冬季低温续航下降","candidates":["CF-TSB-037","CF-TSB-091"]},
+ {"id":"cf-power","label":"动力系统告警","model":"Sedan","year":2024,"question":"动力系统故障限功率","candidates":["CF-TSB-064","CF-TSB-118"]},
+ {"id":"cf-cooling","label":"空调制冷不足","model":"Sedan","year":2023,"question":"空调不制冷","candidates":["CF-TSB-091","CF-TSB-037"]},
+ {"id":"cf-handshake","label":"快充握手失败","model":"SUV","year":2024,"question":"直流快充握手失败","candidates":["CF-TSB-173","CF-TSB-159"]},
+ {"id":"cf-battery","label":"电池温度告警","model":"SUV","year":2024,"question":"电池温度过高","candidates":["CF-TSB-024","CF-TSB-196"]},
+ {"id":"cf-tire","label":"胎压告警","model":"SUV","year":2024,"question":"胎压报警气压低","candidates":["CF-TSB-058","CF-TSB-107"]},
+ {"id":"cf-insulation","label":"高压绝缘告警","model":"SUV","year":2024,"question":"绝缘故障高压系统报警","candidates":["CF-TSB-196","CF-TSB-024"]}
+]
