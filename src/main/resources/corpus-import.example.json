@@ -1,0 +1,12 @@
+[
+  {
+    "docId": "MANUAL-EXAMPLE-P1-C1",
+    "title": "导入结构示例（非真实维修资料）",
+    "model": "EXAMPLE-MODEL",
+    "yearFrom": 2023,
+    "yearTo": 2025,
+    "page": 1,
+    "text": "请用经授权、人工核对的原始资料段落替换此处。每个docId是唯一且稳定的chunkId；page必须来自人工确认的来源页码。服务不执行PDF解析或OCR。",
+    "advice": ""
+  }
+]

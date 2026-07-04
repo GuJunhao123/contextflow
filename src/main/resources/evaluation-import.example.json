@@ -1,0 +1,9 @@
+[
+  {
+    "id": "import-example-1",
+    "model": "EXAMPLE-MODEL",
+    "year": 2023,
+    "question": "资料导入需要如何核对？",
+    "gold": ["MANUAL-EXAMPLE-P1-C1"]
+  }
+]
