@@ -1,0 +1,14 @@
+[
+ {"id":"Q01","model":"Sedan","year":2023,"question":"交流慢充充电中断","gold":["CF-TSB-012"]},
+ {"id":"Q02","model":"Sedan","year":2023,"question":"冬季低温续航下降","gold":["CF-TSB-037"]},
+ {"id":"Q03","model":"Sedan","year":2024,"question":"动力系统故障限功率","gold":["CF-TSB-064"]},
+ {"id":"Q04","model":"Sedan","year":2023,"question":"空调不制冷","gold":["CF-TSB-091"]},
+ {"id":"Q05","model":"SUV","year":2024,"question":"直流快充握手失败","gold":["CF-TSB-173"]},
+ {"id":"Q06","model":"SUV","year":2024,"question":"电池温度过高","gold":["CF-TSB-024"]},
+ {"id":"Q07","model":"SUV","year":2024,"question":"胎压报警气压低","gold":["CF-TSB-058"]},
+ {"id":"Q08","model":"SUV","year":2024,"question":"绝缘故障高压系统报警","gold":["CF-TSB-196"]},
+ {"id":"Q09","model":"Sedan","year":2023,"question":"低压供电告警车辆无法唤醒","gold":["CF-TSB-006"]},
+ {"id":"Q10","model":"Sedan","year":2023,"question":"雨刮不工作视野不清","gold":["CF-TSB-045"]},
+ {"id":"Q11","model":"SUV","year":2024,"question":"转向助力告警方向盘沉重","gold":["CF-TSB-076"]},
+ {"id":"Q12","model":"SUV","year":2024,"question":"安全气囊约束系统告警","gold":["CF-TSB-187"]}
+]
